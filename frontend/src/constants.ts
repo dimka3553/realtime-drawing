@@ -1,0 +1,1 @@
+export const backendurl = 'ws://localhost:8080';
