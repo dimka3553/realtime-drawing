@@ -1,1 +1,1 @@
-export const backendurl = 'ws://localhost:8080';
+export const backendurl = 'wss://hammerhead-app-wttmn.ondigitalocean.app/';
